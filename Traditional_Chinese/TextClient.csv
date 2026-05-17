@@ -109,9 +109,9 @@ TEXTCLIENT_APP_SKILL,Skills,技能
 TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,角色等級：%d
 TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,您學習了新的攻擊模式！
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,您沒有裝備正確的武器或物品，無法使用此技能。
-TEXTCLIENT_REQFP,Not enough FP.,FP 不足。
-TEXTCLIENT_REQMP,Not enough MP.,MP 不足。
-TEXTCLIENT_REQHP,Not enough HP.,HP 不足。
+TEXTCLIENT_REQFP,Not enough FP.,活力不足。
+TEXTCLIENT_REQMP,Not enough MP.,魔力不足。
+TEXTCLIENT_REQHP,Not enough HP.,生命不足。
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,因為有障礙物阻擋，所以無法進行操作。
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,需要 %s 技能等級 %d。
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s 技能等級提升。
@@ -837,7 +837,7 @@ TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant 
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜您在 Giant 狩獵排名中獲得 %d 分！
 TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,您獲得了 %d 點 Giant 狩獵分數 (總計 %d)！
 TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,您無法購買，因為伺服器將在幾秒後進行維護。
-TEXTCLIENT_CTRLRECOVERY,You found a HP container!,您找到了一個 HP 容器！
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,您找到了一個生命容器！
 TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,獎勵已成功領取
 TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,您獲得了 %s fCoins 獎勵。
 TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,該武器沒有任何新版特效效果。

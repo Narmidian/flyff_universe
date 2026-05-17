@@ -52,7 +52,7 @@ PROPQUEST_INC_000494,The High-Dwarpets can be found north of Flarine. Check your
 PROPQUEST_INC_000495,"Good luck, apprentice.",祝你一路順風啊～
 PROPQUEST_INC_000496,What a shame to waste such potential. Come see me again if you change your mind.,我想你應該對雜技師不夠瞭解啦！你如果懂雜技師的魅力在那的話，不可能就這樣放棄的。
 PROPQUEST_INC_000497,"Hmmm, has Pyre instructed you to see me? I see. Very well, I will continue your training. Listen up!",咦？這不是「技能序章」嗎？哈哈哈，謝謝你啊～謝謝你～一定是飛蕊幫我請你幫忙的對吧！好吧！那我給你一個禮物好了～你問我是什麼禮物喔？唉呀～你就先聽啦...
-PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",弓箭的技能是消耗 MP 的，溜刃是消耗 FP 的，所以要記住喔。弓箭有 6 個技能，溜刃有 7 個技能，公用的有 3 個技能，我告訴你其中一個技能好了，就是有一個技能叫做『幻影術』。
+PROPQUEST_INC_000498,"Bows consume Magic Points (MP) and yo-yos consume Focus Points (FP). There are 6 special bow abilities and 7 special yo-yo abilities. I shall teach you a common Acrobat ability, Dark Illusion.",弓箭的技能是消耗魔力的，溜刃是消耗活力的，所以要記住喔。弓箭有 6 個技能，溜刃有 7 個技能，公用的有 3 個技能，我告訴你其中一個技能好了，就是有一個技能叫做『幻影術』。
 PROPQUEST_INC_000499,"This ability allows you to vanish from sight. However, keep in mind that any actions performed while under the effects of this ability aside from movement will remove the effect. Take this.",這是一個隱身的技能，如何？很讚吧！可是啊，你要攻擊東西或是使用其他技能的話，這個技能會自動消失，注意這一點喔～還有這個東西你收下吧！要保管好喔～
 PROPQUEST_INC_000500,"It's interesting that you've come to see me. Did Pyre send you? If he did, you would have something for me.",ㄟ～見鬼了！有人類會來找我ㄝ～真是太神奇了！幹嘛！幹嘛？什麼？飛蕊請你來的啊？嗯...可是怎麼沒有拿東西給我啊？
 PROPQUEST_INC_000501,Visit High-Dwarpet Tucani in Flaris. He can be found north of Flarine. Check your map (M Key) to find your way if you get lost.,去浪樓江找「技能序章」之後，到勒倫山脈找哆卡吧！他應該會告訴一些事情的。
@@ -1204,7 +1204,7 @@ PROPQUEST_INC_002225,"You are new to Madrigal, right? Hi! I have heard a lot abo
 PROPQUEST_INC_002226,You should buy a Long Sword from Luda at the Shield Shop.,你要持有長劍才可以。盾牌商店路達有在賣~！
 PROPQUEST_INC_002227,"Losha at the Food Shop will give me a Green Shield and 1,200 Penya when I visit her.",你就去飲食店找蘿夏，就給你高級木盾和 1200 金幣。
 PROPQUEST_INC_002229,A Vagrant's First Steps (1),見習生的第一步 (1)
-PROPQUEST_INC_002230,Hello! I am Losha and I run the Food Shop. I sell food that is helpful for when you lose your Health Points (HP). Each type of food has a different recovery power and level requirement.,我在販賣的食物是可以補充 HP 的。各種類都有不同的 HP 恢復量，如果 HP 剩下最大恢復量以上時，每次食用的恢復量就會減少
+PROPQUEST_INC_002230,Hello! I am Losha and I run the Food Shop. I sell food that is helpful for when you lose your Health Points (HP). Each type of food has a different recovery power and level requirement.,我在販賣的食物是可以補充生命的。各種類都有不同的生命恢復量，如果生命剩下最大恢復量以上時，每次食用的恢復量就會減少
 PROPQUEST_INC_002231,"You can eat the food by double-clicking it in your inventory. Also, you can add them to your hot keys. Please remember that once you eat food, you cannot eat again for a certain amount of time.",使用食物的方法，雙點擊物品欄位的食物，也可以透過拖曳到熱鍵欄後使用。要記住使用過一次後，在一定的時間之內，不能馬上再使用。
 PROPQUEST_INC_002232,Now that the lesson is over it is time for some combat! There are a lot of Aibatts to the north. Please hunt 15 Small Aibatts and go back to Luda at the Shield Shop.,現在所有的教育都結束了。你要戰鬥看看嗎？你往北方走，可以看到獨眼蝙蝠。請你打倒 15 隻獨眼蝙蝠嘍囉後，去找盾牌商店的路達吧。
 PROPQUEST_INC_002233,"Don't be too nervous and please check your equipment again before you venture out. Oh, and don’t forget to buy some food!",別太緊張，出發前請再檢查一次你的裝備。喔，還有別忘了買些食物！

@@ -11,8 +11,8 @@ CLIENT_FAQ_INC_000008,How do you use the skills?,如何使用技能？
 CLIENT_FAQ_INC_000009,Press K for the Skills menu and drag skill icons that you want to use into the action slot on the lower right side of your screen.,按 K 進入技能選單，然後將要使用的技能圖標拖到螢幕右下方的操作欄中。
 CLIENT_FAQ_INC_000010,How do you use the skills continuously?,如何連續使用技能？
 CLIENT_FAQ_INC_000011,Place skills in the action slot and press C when targeting something to use those skills. Moves that are shaped like puzzle pieces need to be placed together.,想要連續使用技能時，可將自己想要使用的技能，依序放入畫面右下角的技能熱鍵欄中，使用技能時，會按照自己所設定的技能依序施展。但是設定拼圖技能時，必須配合技能的招式，如 前段技能-> 中段技能 -> 後段技能 依序排列。
-CLIENT_FAQ_INC_000012,How do I gain my health back?,食物無法將 HP 補滿。
-CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,用來恢復 HP 的物品會有恢復的上限值。請確定食物的恢復量後，選擇適合自己 HP 的食物。
+CLIENT_FAQ_INC_000012,How do I gain my health back?,食物無法將生命補滿。
+CLIENT_FAQ_INC_000013,Food and certain other items will restore your health when you double click them. The amount of HP each item restores is noted in the item description.,用來恢復生命的物品會有恢復的上限值。請確定食物的恢復量後，選擇適合自己生命的食物。
 CLIENT_FAQ_INC_000014,How do I get a Job?,如何轉職？
 CLIENT_FAQ_INC_000015,"When you reach level 15, talk to Julia in Flarine to get your job transfer quests. The Mercenary and Assist quests start in Flaris, the Magician quest starts in Saint Morning, and the Acrobat quest starts in Darken.",當你達到 15 級時，與布拉里斯的朱莉亞交談以獲得你的轉職任務。勇者、神職者要到在布拉里斯開始，魔法使任務在聖音特開始，雜技師任務在得肯開始。
 CLIENT_FAQ_INC_000016,How come I do not gain anymore experience at level 15.,等級 15 級之後經驗值不會累積了。

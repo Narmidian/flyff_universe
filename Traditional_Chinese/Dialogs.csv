@@ -494,7 +494,7 @@ NPC_000545,"If you're going to explore the wilds of Flaris, make sure you stock 
 NPC_000546,"There are many shops in the city that sell everything from food and drink, to weapons and armor. Have a look around to see what we have available!",都市裡有很多商店，比較特別的建築物前面，都會有很多商人在吵著販賣自製物品喔~
 NPC_000547,"You can also purchase exotic items from the many private shops in the area. These shops are usually run by other adventurers, such as yourself.",每個商店所販售的物品不同，所以一定要知道他們所賣的物品，這樣的話在購買物品的時候，比較減省時間喔~
 NPC_000548,People from all over Madrigal visit this city every day to shop and enjoy the sights. It is so beautiful here. Is there anything else I can assist you with? ,每天都有來自瑪德利賈各地的人們到這座城市購物、欣賞風景。這裡真的很漂亮。還有什麼我能幫你的嗎？
-NPC_000549,"If your Health Points (HP) reach zero, you will die. Not to worry, though, you have several options when this happens.",體力 (HP) 完全消失的話，在戰鬥的時候會暈倒，所以隨時要注意自己的體力喔。
+NPC_000549,"If your Health Points (HP) reach zero, you will die. Not to worry, though, you have several options when this happens.",生命完全消失的話，在戰鬥的時候會暈倒，所以隨時要注意自己的生命喔。
 NPC_000550,"If you select Lodestar, you will be summoned back to town and resurrected. Alternatively, players who've chosen the Assist Job can often resurrect you where you died.",如果你選擇城鎮之星，你將被傳送回城鎮並復活。或者由神職者職業的玩家在你倒下的地方復活你。
 NPC_000551,"In addition to this, you can also purchase a Scroll of Resurrection by selecting the Premium Item Shop icon on your task bar. This allows you to resurrect in place.",也會恢復暈倒的人。但是，你在生命光塔指定了復活點的話，會在生命光塔復活喔~
 NPC_000554,"Goodbye, adventurer. Enjoy your stay in Flarine!",祝你有一個快樂的冒險旅程。
@@ -854,7 +854,7 @@ NPC_001026,"My name is Harold and I run this arena, so don't cross me or it's yo
 NPC_001027,"Oh, burn! He took that one right to the face! It's a slobber-knocker!",要一直有繼續變強的意志才能在這生存下去!
 NPC_001028,Anyone need any supplies? I got what YOU need!,戰鬥開始之前不先準備一下?
 NPC_001029,"Once you step foot into the arena circle, you can be attacked by anyone at anytime, so watch your back! ",一旦踏入競技場圈子內，隨時就可能被任何人攻擊，所以請小心你的後面！!
-NPC_001030,"Nice to meet you, friend. My name is Deek and I sell various foods, Posters, MP recovery items, and Arrows. Let me know if you need anything.",很高興認識你，朋友。 我的名字是迪克，我出售各種食物、魔法符咒、MP 恢復道具和箭矢。 如果你需要幫助，請告訴我。如果你需要幫助請告訴我。
+NPC_001030,"Nice to meet you, friend. My name is Deek and I sell various foods, Posters, MP recovery items, and Arrows. Let me know if you need anything.",很高興認識你，朋友。 我的名字是迪克，我出售各種食物、魔法符咒、魔力恢復道具和箭矢。 如果你需要幫助，請告訴我。如果你需要幫助請告訴我。
 NPC_001031,Feel free to visit me again if you need some more supplies for the arena!,要從瑪德利賈拿回保證金物品還真是不簡單啊..
 NPC_001032,New to Madrigal? Visit your friendly neighborhood Buff Pang!,剛來瑪德利賈嗎？來找親切的 [新手指導員] 胖胖吧！
 NPC_001033,Hello there! I'm granting buffs to adventurers who haven't completed their second job change yet. Come see me anytime if you ever find yourself in need of a boost to your stats!,"為了飛飛的新手玩家們,提供給 60 級以內的玩家初級輔助功能"

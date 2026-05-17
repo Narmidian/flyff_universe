@@ -59,14 +59,14 @@ CLIENT_HELP_INC_000056,Complete as many quests as you can as they will give you 
 CLIENT_HELP_INC_000057,Interface,介面
 CLIENT_HELP_INC_000058,This Section will detail the various Menus you will be seeing and using while you play.,現在為您說明 Flyff 中所使用的各種視窗與欄位。
 CLIENT_HELP_INC_000059,Status Menu,狀態視窗
-CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",你可以用 T 鍵切換狀態視窗視窗，他可以看到你角色的所有狀態，包括 HP、MP、FP、Exp 和 BT
-CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",你的 HP 會因你的體力增加，越多 HP 你會存活更久；MP 是魔法使施展魔法攻擊或神職者施展輔助技能時所需，如果提升能力值中的智力，就會使 MP 最大量上升；FP 是勇者和雜技使用攻擊技能時所需要的點數，如果提升能力值中的體力，就會使 FP 點數增加。
+CLIENT_HELP_INC_000060,"Press T to toggle this window. This window shows your character's overall status, including HP (Hit Points), MP (Magic Points), FP (Focus Points), and EXP.",你可以用 T 鍵切換狀態視窗視窗，他可以看到你角色的所有狀態，包括生命、魔力、活力、Exp 和 BT
+CLIENT_HELP_INC_000061,"Your total HP increases as you increase STA. The more HP you have, the longer you can survive. MP is required for Magician and Assist skills, and your total MP increases as you increase INT. FP is required for Mercenary and Acrobat skills, and your total FP increases as you increase STA.",你的生命會因你的體力增加，越多生命你會存活更久；魔力是魔法使施展魔法攻擊或神職者施展輔助技能時所需，如果提升能力值中的智力，就會使魔力最大量上升；活力是勇者和雜技使用攻擊技能時所需要的點數，如果提升能力值中的體力，就會使活力點數增加。
 CLIENT_HELP_INC_000062,EXP shows how much experience you need to level up. You gain EXP by defeating monsters and completing quests.,EXP (角色經驗值) 是角色等級上升時所需的經驗值，經驗值只有在打怪或完成任務時，才能夠獲得；BT 是特別的經驗加成，透過公會屋可以獲得，詳細請看幫助選單。
 CLIENT_HELP_INC_000063,Character Menu,角色視窗
 CLIENT_HELP_INC_000064,"This Menu can be toggled with the H Key. It displays important information about the character. The Base Section displays basic information such as character name, job, level, etc... The Detail Section displays the character status according to the currently used equipment and level, and PVP/PK tracks your PVP information.",按下 H 鍵開啟，此視窗會顯示關於角色的各種情報。『基本』頁面中，可以看到角色的名字、職業、等級、伺服器名稱、頻道情報等基本的說明，在『詳細』頁面中，當前使用的裝備和等級顯示角色狀態，PVP/PK 追蹤你的 PVP 訊息。
 CLIENT_HELP_INC_000065,"When you gain levels you will be awarded Stat Points. These can be spent on this Menu. Stat Points are gained as you level up, and you can increase your base abilities.",當你升等時將獲得能力點，可以在這選單上使用。升級時會獲得能力點數，並且可以增加基礎能力
 CLIENT_HELP_INC_000066,"ATK represents your Attack Power, this is how much damage you can deliver to the enemy. DEF represents your Defense, this is how much damage you can absorb from an enemy's attack. Critical means how much chance you have to make a critical attack, and A. Speed shows how fast your character will attack.",攻擊力代表你可以對敵人造成多少傷害；防禦力是代表可以從敵人的攻擊中吸收多少傷害；暴擊代表著你有多少機會造成暴擊傷害；攻擊速度代表你的角色攻擊時的速度。
-CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.",力量會影響基本攻擊力和法杖以外的武器攻擊力；體力會影響防禦力、增加 HP 最大量、FP 最大量及增加 HP、FP 恢復量；敏捷會增加攻擊速度、迴避、命中率、暴擊率，還會影響弓系列武器的攻擊力；智力會影響最大 MP 量、MP 恢復量、魔法攻擊力及魔法防禦力。
+CLIENT_HELP_INC_000067,"STR affects the attack power of all melee weapons. STA affects defense, max HP, max FP, and HP/FP restoration. DEX affects attack speed, dodge, blocking, critical chance and bow attack power. INT affects maximum MP, MP restoration, magical spell damage and magic defense.",力量會影響基本攻擊力和法杖以外的武器攻擊力；體力會影響防禦力、增加生命最大量、活力最大量及增加生命、活力恢復量；敏捷會增加攻擊速度、迴避、命中率、暴擊率，還會影響弓系列武器的攻擊力；智力會影響最大魔力量、魔力恢復量、魔法攻擊力及魔法防禦力。
 CLIENT_HELP_INC_000068,The Fame/Master Tab will display of all the Titles you have earned. Select one of these Titles to show the world what you can accomplish!,名稱/大師標籤將顯示你所有獲得的稱號，選擇其一，讓大家知道你完成了什麼。
 CLIENT_HELP_INC_000069,Chat Menu,聊天視窗
 CLIENT_HELP_INC_000070,"Press Enter to activate this Menu and then you can type in it. Chat, Whisper, Shout, Party and Guild Chats are possible. You can click the System button to view any system messages that have been displayed.",聊天視窗位於熱鍵欄的上方。若想要聊天，可直接按一次『Enter』鍵，即可輸入文字進行聊天。可以使用一般聊天、密語、大喊、劇團聊天、公會聊天等。點擊 SYSTEM 項目後，就會開啟 SYSTEM 視窗，可以確定各種系統裡輸出的訊息。
@@ -235,7 +235,7 @@ CLIENT_HELP_INC_000233,Sword Mastery,劍之研習
 CLIENT_HELP_INC_000234,Increases the attack level of a Sword. This skill is available at Level 30 to Players who have at least 9 Skill Points in Blazing Sword and can be used with any Sword.,增加劍的攻擊等級。該技能在 30 級時適用於擁有至少 9 個狂暴刃技能點的玩家，並且可以與任何劍一起使用。
 CLIENT_HELP_INC_000235,Acrobat,雜技師
 CLIENT_HELP_INC_000236,"Acrobats mainly wield long distance weapons such as Bows or Yo-Yos. Using tactics based on speed and accuracy, they are usually able to break anyone willing enough to fight them. Sly and witty, the acrobat is a cunning trickster.",雜技師主要使用長距離武器，如弓箭或溜刃，使用基於速度和準度的戰術，它們通常能擊敗任何願意與他們戰鬥的人。 狡猾而詼諧的雜技師是一個狡猾的騙子。
-CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.",雜技師將 MP 用於弓箭技能，FP 用於溜刃技能。 雜技師使用 FP 於通用技能像幻影術。 雜技師之後將成為操偶師或浪人。
+CLIENT_HELP_INC_000237,"An Acrobat will use MP for Bow Skills and FP for Yo-Yo skills. For universal skills like Dark Illusion, Acrobats use FP. Acrobats will become either a Jester or a Ranger.",雜技師將魔力用於弓箭技能，活力用於溜刃技能。 雜技師使用活力於通用技能像幻影術。 雜技師之後將成為操偶師或浪人。
 CLIENT_HELP_INC_000238,Pulling,零距離
 CLIENT_HELP_INC_000239,Pulls a target towards the player. This skill is available at Level 15 to Players and can be used with any Yo-Yo.,將目標拉向玩家。該技能在 15 級時可供玩家使用，並且可以與任何溜刃一起使用。
 CLIENT_HELP_INC_000240,Fast Walker,加速術
@@ -272,15 +272,15 @@ CLIENT_HELP_INC_000270,Assist,神職者
 CLIENT_HELP_INC_000271,"The Assist is the priest or medic of Flyff. The two primary builds for this job are a Full Support healer or a Buff Warrior. Both have the same skills to chose from. Where the Healer will need a partner to level, the Warrior can self-buff and fight alone.",擁有保護其他角色能力的職業。神職者可細分為加持系與攻擊系。加持系也就是輔助型，主要使用的武器是法棒。而攻擊系的神職者必須使用拳套來進行近身攻擊。
 CLIENT_HELP_INC_000272,The Assist may chose from Ringmaster or Billposter when the times comes to progress into a second Job.,當轉職進入第二個職業時，神職者可以從守護者或爆咒師中來選擇。
 CLIENT_HELP_INC_000273,Heal,治癒術
-CLIENT_HELP_INC_000274,"Primary healing spell, which recovers a portion of the target's HP. This skill is available at Level 15 and can be used with any Stick.",主要治療法術，可以恢復目標的一部分 HP。該技能在 15 級時可用，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000274,"Primary healing spell, which recovers a portion of the target's HP. This skill is available at Level 15 and can be used with any Stick.",主要治療法術，可以恢復目標的一部分生命。該技能在 15 級時可用，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000275,Patience,生命的祝福
-CLIENT_HELP_INC_000276,Increases the target’s maximum HP. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,增加目標的最大 HP。該技能在 18 級時適用於擁有至少 3 個治癒術技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000276,Increases the target’s maximum HP. This skill is available at Level 18 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.,增加目標的最大生命。該技能在 18 級時適用於擁有至少 3 個治癒術技能點的玩家，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000277,Resurrection,復活術
-CLIENT_HELP_INC_000278,"Revives a dead Player, but only grants a portion of their HP. This skill is available at Level 20 to Players who have at least 4 Skill Points in Patience and can be used with any Stick.",復活死去的玩家，但只給予他們的一部分 HP。該技能在 20 級時適用於擁有至少 4 點生命的祝福技能點的玩家使用，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000278,"Revives a dead Player, but only grants a portion of their HP. This skill is available at Level 20 to Players who have at least 4 Skill Points in Patience and can be used with any Stick.",復活死去的玩家，但只給予他們的一部分生命。該技能在 20 級時適用於擁有至少 4 點生命的祝福技能點的玩家使用，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000279,Circle Healing,集體治癒術
 CLIENT_HELP_INC_000280,Heals Party Members within a specified range of yourself. This skill is available at Level 25 to Players who have at least 4 Skill Points in Resurrection and can be used with any Stick.,治療自己指定範圍內的劇團成員。該技能在 25 級時適用於擁有至少為 4 復活術技能點數的玩家，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000281,Prevention,千鈞一髮
-CLIENT_HELP_INC_000282,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.,如果您的 HP 低於 10%，此法術將自動恢復您的所有 HP。此技能在 30 級時適用於擁有至少 4 個集體治癒術技能點的玩家，並且可以與任何魔法棒一起使用。
+CLIENT_HELP_INC_000282,This spell will automatically recover all of your HP if you drop below 10% HP. This skill is available at Level 30 to Players who have at least 4 Skill Points in Circle Healing and can be used with any Stick.,如果您的生命低於 10%，此法術將自動恢復您的所有生命。此技能在 30 級時適用於擁有至少 4 個集體治癒術技能點的玩家，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000283,Quick Step,風精之舞
 CLIENT_HELP_INC_000284,"Increases the target’s walking speed. The higher the level, the faster the target walks. This skill is available at Level 20 to Players who have at least 3 Skill Points in Heal and can be used with any Stick.",增加目標的行走速度，等級越高，向目標走得越快。 該技能在 20 級時可供擁有至少 3 點治癒術技能點的玩家使用，並且可以與任何魔法棒一起使用。
 CLIENT_HELP_INC_000285,Haste,風精的祝福
@@ -355,7 +355,7 @@ CLIENT_HELP_INC_000353,A melee skill which damages the target as  lowering its d
 CLIENT_HELP_INC_000354,Guard,護衛
 CLIENT_HELP_INC_000355,Increases the characters defense but reduces the characters attack power. This skill is available at Level 62 and can be used with either a two handed Axe or Sword.,增加角色防禦，但降低角色攻擊力。 該技能在 62 級可用，可與雙手斧或劍一起使用。
 CLIENT_HELP_INC_000356,Rage,怒氣
-CLIENT_HELP_INC_000357,"Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword.",增加角色的攻擊力和 HP，但也會降低角色的防禦力和命中率。該技能在 65 級時可供擁有至少 5 點護衛技能點的玩家使用，並且可以與雙手斧頭或劍一起使用。
+CLIENT_HELP_INC_000357,"Increases the characters attack power and HP, but it also reduces the characters defense and accuracy. This skill is available at Level 65 to Players who have at least 5 Skill Points in Guard and can be used with either a two handed Axe or Sword.",增加角色的攻擊力和生命，但也會降低角色的防禦力和命中率。該技能在 65 級時可供擁有至少 5 點護衛技能點的玩家使用，並且可以與雙手斧頭或劍一起使用。
 CLIENT_HELP_INC_000358,Pain Reflection,血債血償
 CLIENT_HELP_INC_000359,Reflects a portion of damage you receive back at the target. This skill is available at Level 70 to Players who have at least 4 Skill Points in Rage and can be used with either a two handed Axe or Sword.,將你受到的部分傷害反射回目標。該技能在 70 級時適用擁有至少 4 個怒氣技能點數的玩家，並且可以與雙手斧或劍一起使用。
 CLIENT_HELP_INC_000360,Power Swing,橫風斬
@@ -388,7 +388,7 @@ CLIENT_HELP_INC_000386,Plastering poison on the weapon to increase the normal da
 CLIENT_HELP_INC_000387,Enchant Bleed,出血
 CLIENT_HELP_INC_000388,Increase the normal damage with the bleeding attribute and available to make the enemy bleeding.,提高附帶流血屬性的普通攻擊傷害，並使攻擊有機會讓敵人進入流血狀態。
 CLIENT_HELP_INC_000389,Enchant Absorb,吸血溜溜
-CLIENT_HELP_INC_000390,You can drain the HP of enemy with striking. The drain will be occurred with certain probability.,在溜刃上追加吸血的效果，並且提升攻擊力，可追加吸收對方 HP 的效果。
+CLIENT_HELP_INC_000390,You can drain the HP of enemy with striking. The drain will be occurred with certain probability.,在溜刃上追加吸血的效果，並且提升攻擊力，可追加吸收對方生命的效果。
 CLIENT_HELP_INC_000391,Back Step,背後突襲
 CLIENT_HELP_INC_000392,"When attacking from behind, deals a critical strike to the enemy. Also has a chance to stun the enemy.",在敵人的背後使用此技能，施展後可機率性的使敵人短暫暈眩。
 CLIENT_HELP_INC_000393,Hit of Penya,砸錢攻擊
@@ -431,7 +431,7 @@ CLIENT_HELP_INC_000429,"Increases accuracy, attack speed and attack power for al
 CLIENT_HELP_INC_000430,Gvur Tialla,眾神的守護
 CLIENT_HELP_INC_000431,Cleanses any abnormal conditions.,解除所有異常狀態。
 CLIENT_HELP_INC_000432,Heal Rain,祝福的洗禮
-CLIENT_HELP_INC_000433,Recovers a large amount of HP for all party members.,生命之水降臨在每個隊伍成員的身上，使所有的隊友回復大量的 HP。
+CLIENT_HELP_INC_000433,Recovers a large amount of HP for all party members.,生命之水降臨在每個隊伍成員的身上，使所有的隊友回復大量的生命。
 CLIENT_HELP_INC_000434,Merkaba Hanzelrusha,神聖領域
 CLIENT_HELP_INC_000435,Deals damage over time to all enemies in a certain area.,設一個神聖的結界，讓進入結界的怪物持續受到傷害。
 CLIENT_HELP_INC_000436,Billposter,爆咒師
@@ -451,7 +451,7 @@ CLIENT_HELP_INC_000449,An energy wave deals damage to all monsters around the ca
 CLIENT_HELP_INC_000450,Sonic Hand,百裂拳
 CLIENT_HELP_INC_000451,Uses a knuckle hammer to strike with deadly speed.,依照等級慢慢的增加打擊數，其威力也會跟著增加。
 CLIENT_HELP_INC_000452,Asalraalaikum,羅煞狂爆拳
-CLIENT_HELP_INC_000453,"Strikes the enemy with concentrated power, consumes all MP.",消耗所有的 MP 來製造最大的傷害。
+CLIENT_HELP_INC_000453,"Strikes the enemy with concentrated power, consumes all MP.",消耗所有的魔力來製造最大的傷害。
 CLIENT_HELP_INC_000454,Elementor,研術者
 CLIENT_HELP_INC_000455,"The first job class for Magicians, they use staves like Magicians. They specialize in magic effecting large numbers of enemies at once.",這是魔法使的二轉職業之一，與魔法使相同使用法杖，專精於一次對大量敵人施放魔法。
 CLIENT_HELP_INC_000456,Firebird,浴火鳳凰
@@ -501,7 +501,7 @@ CLIENT_HELP_INC_000499,"Confuses the enemy, and binds them in place for a certai
 CLIENT_HELP_INC_000500,Psychic Bomb,念力爆炸
 CLIENT_HELP_INC_000501,"Builds up spiritual power, and releases it to do massive damage.",將精神力瞬間爆發後，發出強力的攻擊。
 CLIENT_HELP_INC_000502,Spirit Bomb,幻影冥魅
-CLIENT_HELP_INC_000503,"Collapse the spirit of the enemy, deals damage based on MP.",讓敵人的精神崩潰，並會依照敵人的 MP 來計算敵人受到的傷害。
+CLIENT_HELP_INC_000503,"Collapse the spirit of the enemy, deals damage based on MP.",讓敵人的精神崩潰，並會依照敵人的魔力來計算敵人受到的傷害。
 CLIENT_HELP_INC_000504,Psychic Wall,念力牆
 CLIENT_HELP_INC_000505,Creates a psychic barrier in front of the caster that the monster cannot pass.,利用強大的念力，製造出一面隱形牆，使敵人無法靠近。
 CLIENT_HELP_INC_000506,Crucio Spell,降頭魔咒
@@ -525,17 +525,17 @@ CLIENT_HELP_INC_000523,placholder 36,佔位文字 36
 CLIENT_HELP_INC_000524,Strength,力量
 CLIENT_HELP_INC_000525,Weapon attack rate increases except for wands and bows.,增加法杖和弓以外的武器攻擊力。
 CLIENT_HELP_INC_000526,Stamina,體力
-CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.",提升 HP (生命值)、FP (體力值)、防禦力及 FP 的恢復量。
+CLIENT_HELP_INC_000527,"Affects HP, FP, Defense and HP/FP restoration rate.",影響生命、活力、防禦力及生命/活力恢復率。
 CLIENT_HELP_INC_000528,Dexterity,敏捷
 CLIENT_HELP_INC_000529,"Affects accuracy, attack speed, dodge rate, block rate, critical chance and bow attack power.",影響到角色的命中率、迴避、攻擊速度、暴擊率及弓箭系列武器的攻擊力。
 CLIENT_HELP_INC_000530,Intelligence,智力
-CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.",提升魔法攻擊力、魔法防禦力、MP 的最大量，MP 回復量。
-CLIENT_HELP_INC_000532,HP (life),HP (生命)
-CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,角色的生命耗盡時，會無法繼續進行各種活動。您可利用各種食物及藥丸來恢復 HP。
-CLIENT_HELP_INC_000534,MP (spirit),MP (魔力)
-CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.",使用魔法時必要的數值。可使用魔力多來恢復 MP。
-CLIENT_HELP_INC_000536,FP (endurance),FP (活力)
-CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,使用技能後，出現的疲勞指數。可透過適當的休息漸漸的恢復疲勞。或是使用精力多來恢復 FP。
+CLIENT_HELP_INC_000531,"Affects maximum MP, MP restoration amount, magic power and magic defense.",提升魔法攻擊力、魔法防禦力、魔力的最大量，魔力回復量。
+CLIENT_HELP_INC_000532,HP (life),生命
+CLIENT_HELP_INC_000533,This is the vitality of the character and the character will die if it reaches 0. You can recover it with food and pill items.,角色的生命耗盡時，會無法繼續進行各種活動。您可利用各種食物及藥丸來恢復生命。
+CLIENT_HELP_INC_000534,MP (spirit),魔力
+CLIENT_HELP_INC_000535,"This is for using magic, you can revive it by drinking refresher.",使用魔法時必要的數值。可使用魔力多來恢復魔力。
+CLIENT_HELP_INC_000536,FP (endurance),活力
+CLIENT_HELP_INC_000537,This is needed to use physical skills. It can be replenished by resting/sitting down but it can be immediately recovered by using vitality drink items.,使用技能後，出現的疲勞指數。可透過適當的休息漸漸的恢復疲勞。或是使用精力多來恢復活力。
 CLIENT_HELP_INC_000538,Exp (experience),EXP (經驗值)
 CLIENT_HELP_INC_000539,This is required to raise the level of a character. It can be earned by killing monsters or through quests.,角色要提升等級時，必須累積經驗值。您可透過戰鬥與解任務來獲得經驗值。
 CLIENT_HELP_INC_000540,Skills,技能
@@ -609,7 +609,7 @@ CLIENT_HELP_INC_000607,"This place sells weapons, armor, and magic items best su
 CLIENT_HELP_INC_000608,Food shop,餐飲店
 CLIENT_HELP_INC_000609,This shop sells food items that help recover HP,販賣幫助恢復生命力的各種食品。
 CLIENT_HELP_INC_000610,General merchandise,雜貨店
-CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.",販賣的物品種類很多，有箭矢、符咒、MP 和 FP 飲品。
+CLIENT_HELP_INC_000611,"This place sells Arrows, Posters, and those sorts of things.",販賣的物品種類很多，有箭矢、符咒、魔力和活力飲品。
 CLIENT_HELP_INC_000612,Public Office,城鎮服務處
 CLIENT_HELP_INC_000613,"This place is for selling Perin, using your personal bank, and guild bank.",這裡可以讓你使用個人銀行和公會銀行。
 CLIENT_HELP_INC_000614,Station,航空站
