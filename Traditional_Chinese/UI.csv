@@ -1447,8 +1447,8 @@ UI_GEM_CREATE,Extract,抽取
 UI_COMBATPOWER_RANKING_TITLE,Combat Power Ranking,戰鬥力排名
 UI_ACHIEVEMENT_REMAINING,Remaining: %d / %d,剩餘：%d / %d
 UI_ACHIEVEMENT_SOLDOUT,Fully claimed,已售出
-UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,能量骰子 D/C/S
-UI_SHININGDICE_PIERCING,Power Dice 8/10,能量骰子 B/A
+UI_SHININGDICE_UPGRADE,Power Dice 4/6/12,能量骰子 (D)/(C)/(S)
+UI_SHININGDICE_PIERCING,Power Dice 8/10,能量骰子 (B)/(A)
 UI_CRAFTPETCANDY_MAT,Harvested Berry,收成的莓果
 UI_CRAFTPETCANDY_CANDY,Pet Candy,寵物糖果
 UI_SHININGDICE_BINDING,#cffff0000The resulting Shining Power Dice will be Binding as well.#nc,#cffff0000完成製作的閃耀能量骰子將會被綁定#nc
