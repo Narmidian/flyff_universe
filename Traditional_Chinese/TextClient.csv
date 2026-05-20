@@ -62,8 +62,8 @@ TEXTCLIENT_APP_MOTION,Emotes,動作
 TEXTCLIENT_APP_CHARINFO,Character,角色
 TEXTCLIENT_LIMIT_RECOVER,%s recovery limited to %d.,%s 恢復限制為 %d。
 TEXTCLIENT_ATTENTIONCOOLTIME,Please wait a while before using the item again.,請稍後再使用該物品。
-TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下城鎮之星復活 (最近的城鎮) 或使用道具原地復活。
-TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下城鎮之星在競技場附近復活。
+TEXTCLIENT_DEATH,Press Lodestar to resurrect (Nearest Town) or use an item to resurrect in place.,按下生命光塔復活 (最近的城鎮) 或使用道具原地復活。
+TEXTCLIENT_DEATH_ARENA,Press Lodestar to resurrect near the Arena.,按下生命光塔在競技場附近復活。
 TEXTCLIENT_MOBPRIORITY,You cannot attack a monster that is fighting against another player.,您無法攻擊正在與其他玩家戰鬥的怪物。
 TEXTCLIENT_NOQUITCOMBAT,You cannot quit during combat.,戰鬥中，無法退出。
 TEXTCLIENT_LEVELUP,Level up! You can increase your stats in your character window.,等級提升！您可以在角色視窗提升您的能力值。
@@ -109,9 +109,9 @@ TEXTCLIENT_APP_SKILL,Skills,技能
 TEXTCLIENT_BASESKILLLEVEL,Character Level: %d,角色等級：%d
 TEXTCLIENT_PATTERNUP,You are learning new attack patterns!,您學習了新的攻擊模式！
 TEXTCLIENT_WRONGITEM,You need to equip the correct weapon or item to use that skill.,您沒有裝備正確的武器或物品，無法使用此技能。
-TEXTCLIENT_REQFP,Not enough FP.,FP 不足。
-TEXTCLIENT_REQMP,Not enough MP.,MP 不足。
-TEXTCLIENT_REQHP,Not enough HP.,HP 不足。
+TEXTCLIENT_REQFP,Not enough FP.,活力不足。
+TEXTCLIENT_REQMP,Not enough MP.,魔力不足。
+TEXTCLIENT_REQHP,Not enough HP.,生命不足。
 TEXTCLIENT_BLOCKTARGETING,This action has been blocked by an obstacle..,因為有障礙物阻擋，所以無法進行操作。
 TEXTCLIENT_SKILLREQUIRED,%s skill level %d is needed.,需要 %s 技能等級 %d。
 TEXTCLIENT_SKILLLEVELUP,%s skill level increased.,%s 技能等級提升。
@@ -153,7 +153,7 @@ TEXTCLIENT_PARTYJOIN,%s has joined the party.,%s 已加入劇團。
 TEXTCLIENT_PARTYREMOVE,%s has left the party.,%s 已退出劇團
 TEXTCLIENT_PARTYEXIT,You have left the party.,您退出了劇團。
 TEXTCLIENT_PARTYDESTROY,Party has been disbanded.,劇團解散了。
-TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,您將此生命光塔設定為重生點。
+TEXTCLIENT_LODELIGHT,You have chosen the Lodelight as your re-spawn point.,您將此生命光柱設定為重生點。
 TEXTCLIENT_PARTY_ISNOTMASTER,Only the Party Leader is able to transfer the Leader Status to another member of the party.,只有劇團團長才能將團長身份轉移給劇團的另一名團員。
 TEXTCLIENT_PARTY_MASTERAWAY,You cannot pass party leadership to an offline player.,您無法把團長交接給離線的玩家。
 TEXTCLIENT_PARTY_ALREADYMASTER,You are already the Party Leader.,您已成為了劇團團長。
@@ -450,9 +450,9 @@ TEXTCLIENT_PIERCING_REMOVE_SUCCESS,Your pierced card has been removed succesfull
 TEXTCLIENT_NOTEQUALITEM,This item cannot be used.,無法使用在此物品上。
 TEXTCLIENT_PREMIUM_NOTUPGRADE,Premium item cannot be refined.,商城物品無法被精煉。
 TEXTCLIENT_WRONGSUPITEM,Wrong supplement item.,錯誤的物品。
-TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,您可以在武器商店的穿洞視窗中使用此物品。
-TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,您可以在武器商店的升級視窗中使用此物品。
-TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,您可以在防具商店的升級視窗中使用此物品。
+TEXTCLIENT_USE_PIERCING_MENU,You can use this item with Piercing menu at Weapon Shop.,您可以在武器店的穿洞視窗中使用此物品。
+TEXTCLIENT_USE_ACCESSORY_MENU,You can use this item with Accessory Upgrade menu at Weapon Shop.,您可以在武器店的升級視窗中使用此物品。
+TEXTCLIENT_USE_UPGRADE_MENU,You can use this item with Upgrade menu at Armor Shop.,您可以在防具店的升級視窗中使用此物品。
 TEXTCLIENT_USE_INVENTORY_WINDOW,Double click on this item in Inventory window to use it.,在背包中點擊兩次使用它。
 TEXTCLIENT_NOTELEUPGRADE,Item cannot be upgraded using this element.,該物品無法使用元素精煉。
 TEXTCLIENT_UPGRADE_ERROR_TWOELEMENT,You cannot put two different elements on one item.,你不能在同一個物品上使用兩個不同的元素。
@@ -837,7 +837,7 @@ TEXTCLIENT_GIANTHUNT_RANKING_MAIL,Congratulations for your rank %d in the Giant 
 TEXTCLIENT_GIANTHUNT_RANKING_MAIL1,Congratulations for reaching %d points in the Giant Hunt ranking!,恭喜您在 Giant 狩獵排名中獲得 %d 分！
 TEXTCLIENT_GIANTHUNT_RECEIVE,You received %d Giant Hunting Points (Total %d)!,您獲得了 %d 點 Giant 狩獵分數 (總計 %d)！
 TEXTCLIENT_CASHSHOP_MAINTENANCE,You cannot purchase because the server will have a maintenance in a few seconds.,您無法購買，因為伺服器將在幾秒後進行維護。
-TEXTCLIENT_CTRLRECOVERY,You found a HP container!,您找到了一個 HP 容器！
+TEXTCLIENT_CTRLRECOVERY,You found a HP container!,您找到了一個生命容器！
 TEXTCLIENT_PURCHASE_CLAIMED,Rewards successfully claimed,獎勵已成功領取
 TEXTCLIENT_REAPCASH,You received %s Bonus fCoins.,您獲得了 %s fCoins 獎勵。
 TEXTCLIENT_UPGRADEEFFECT_NONE,The weapon does not have any upgrade effect.,該武器沒有任何新版特效效果。
@@ -1090,7 +1090,7 @@ TEXTCLIENT_UPGRADE_MAXLEVEL,This item has reached its maximum upgrade level.,此
 TEXTCLIENT_UPGRADE_GREAT_FAILURE,The upgrade has been a great failure.,嗚…精煉大失敗了…
 TEXTCLIENT_UPGRADE_GREAT_SUCCESS,Upgrade great success!,恭喜！精煉大成功！
 TEXTCLIENT_ITEM_TARGET_NOT_AVAILABLE,This item cannot be used for the target.,此物品無法對目標使用。
-TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器商店的「製作究極武器」選單中使用此物品。
+TEXTCLIENT_USE_ULTIMATE_MENU,You can use this item with Create Ultimate Weapon menu at Weapon shop,您可以在武器店的「製作究極武器」選單中使用此物品。
 TEXTCLIENT_PLACE_ITEM_FIRST,You must set the target item first.,您必須先選擇目標物品。
 TEXTCLIENT_GUILDHOUSING_NOGUILD,You must be part of a guild to bid for a guild ship.,您必須是公會成員才能競標公會飛船。
 TEXTCLIENT_GUILDHOUSING_NOTMASTER,Only the guild leader can buy a guild ship.,只有公會會長才能購買公會飛船。
