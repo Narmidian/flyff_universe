@@ -18831,7 +18831,7 @@ PROPITEM_TXT_134449,Flask (D),燒瓶 (D)
 PROPITEM_TXT_134450,Flask (C),燒瓶 (C)
 PROPITEM_TXT_134451,Flask (B),燒瓶 (B)
 PROPITEM_TXT_134452,Flask (A),燒瓶 (A)
-PROPITEM_TXT_134453,A clear glass bottle. It's a necessary ingredient for alchemy experiments.,透明玻璃瓶，是鍊金實驗所需的必要材料。
+PROPITEM_TXT_134453,A clear glass bottle. It's a necessary ingredient for alchemy experiments.,透明玻璃瓶，是煉金實驗所需的必要材料。
 PROPITEM_TXT_134454,Hinge (D),鉸鏈 (D)
 PROPITEM_TXT_134455,Hinge (C),鉸鏈 (C)
 PROPITEM_TXT_134456,A hinge that holds a piece of furniture together.,用來連接家具部件的鉸鏈。
@@ -21044,14 +21044,14 @@ PROPITEM_TXT_830031,Fishing Bag (12 Slots),釣魚背包 (12 格)
 PROPITEM_TXT_830032,A bag where you can put up to 12 items obtained via Fishing.,最多可放入 12 個透過釣魚獲得物品的背包。
 PROPITEM_TXT_830033,Fishing Bag (16 Slots),釣魚背包 (16 格)
 PROPITEM_TXT_830034,A bag where you can put up to 16 items obtained via Fishing.,最多可放入 16 個透過釣魚獲得物品的背包。
-PROPITEM_TXT_830035,Alchemy Bag (4 Slots),鍊金背包 (4 格)
-PROPITEM_TXT_830036,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過鍊金獲得物品的背包。
-PROPITEM_TXT_830037,Alchemy Bag (8 Slots),鍊金背包 (8 格)
-PROPITEM_TXT_830038,A bag where you can put up to 8 items obtained via Alchemy.,最多可放入 8 個透過鍊金獲得物品的背包。
-PROPITEM_TXT_830039,Alchemy Bag (12 Slots),鍊金背包 (12 格)
-PROPITEM_TXT_830040,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過鍊金獲得物品的背包。
-PROPITEM_TXT_830041,Alchemy Bag (16 Slots),鍊金背包 (16 格)
-PROPITEM_TXT_830042,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過鍊金獲得物品的背包。
+PROPITEM_TXT_830035,Alchemy Bag (4 Slots),煉金背包 (4 格)
+PROPITEM_TXT_830036,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過煉金獲得物品的背包。
+PROPITEM_TXT_830037,Alchemy Bag (8 Slots),煉金背包 (8 格)
+PROPITEM_TXT_830038,A bag where you can put up to 8 items obtained via Alchemy.,最多可放入 8 個透過煉金獲得物品的背包。
+PROPITEM_TXT_830039,Alchemy Bag (12 Slots),煉金背包 (12 格)
+PROPITEM_TXT_830040,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過煉金獲得物品的背包。
+PROPITEM_TXT_830041,Alchemy Bag (16 Slots),煉金背包 (16 格)
+PROPITEM_TXT_830042,A bag where you can put up to 16 items obtained via Alchemy.,最多可放入 16 個透過煉金獲得物品的背包。
 PROPITEM_TXT_830043,Cooking Bag (4 Slots),烹飪背包 (4 格)
 PROPITEM_TXT_830044,A bag where you can put up to 4 items obtained via Cooking.,最多可放入 4 個透過烹飪獲得物品的背包。
 PROPITEM_TXT_830045,Cooking Bag (8 Slots),烹飪背包 (8 格)
