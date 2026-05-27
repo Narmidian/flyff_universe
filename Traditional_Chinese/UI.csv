@@ -762,7 +762,7 @@ UI_CASHSHOP_TOTAL_PRICE,Total Price:,總價：
 UI_CASHSHOP_LIMITED_OFFER,Limited Offer! Expires in #b%s#nb,限量優惠！剩餘時間 #b%s#nb
 UI_CASHSHOP_SUPP_ITEM_OFFER,Get %d additional item(s) per unit purchase!,每購買一件物品可獲得 %d 的額外物品
 UI_CASHSHOP_PRODUCT_ID,Product ID:,物品 ID：
-UI_OPTION_POSTPROCESSING,Post-processing,後期處理
+UI_OPTION_POSTPROCESSING,Post-processing,後處理
 UI_CASHSHOP_PURCHASEPROCESSING,"Processing the purchase, please wait...",處理購買中，請稍後…
 UI_GUILD_WAR_DECLARE_TITLE,Declare Guild Duel,宣佈公會決鬥
 UI_GUILD_WAR_DECLARE_INPUT,Target Guild,敵方公會
