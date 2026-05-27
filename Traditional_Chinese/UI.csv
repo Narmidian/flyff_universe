@@ -2027,11 +2027,11 @@ UI_MATERIAL_NAME_PLACEHOLDER,Material,材料
 UI_PROTECTION_SCROLL_PLACEHOLDER,Protection Scroll,防爆卷軸
 UI_ULTIMATE_PREFIX,[Ultimate],[究極]
 UI_TOOLTIP_DST_LAST_STAND,Last Stand Chance,背水一戰觸發率
-UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊反射觸發率
-UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,惡作劇逃脫觸發率
-UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖癒恩典觸發率
-UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能超載觸發率
-UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,靈氣爆發率
+UI_TOOLTIP_DST_RIP_REFLEX,Riposte Reflex Chance,反擊本能觸發率
+UI_TOOLTIP_DST_PRANK_ESCAPE,Prankster's Escape Chance,詭戲脫逃觸發率
+UI_TOOLTIP_DST_HEAL_GRACE,Healing Grace Chance,聖療恩典觸發率
+UI_TOOLTIP_DST_SPIRITUAL_CHARGE,Spiritual Overcharge Chance,靈能激湧觸發率
+UI_TOOLTIP_DST_AURABURST,Aura Burst Chance,靈氣迸發率
 UI_TOOLTIP_DST_WATERBOMB,Waterbomb Chance,潮汐彈觸發率
 UI_TOOLTIP_DST_SLOW_RATE,Dmg Slow Rate,緩速觸發率
 UI_TOOLTIP_DST_ARCANE,Arcane Insight Chance,奧術洞悉觸發率
